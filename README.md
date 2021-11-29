@@ -1,3 +1,4 @@
 # Repositorio git
  Primeiro repositorio
-O repositorio em questão está sendo uma forma de estudo
+
+Este repositorio é  um metodo de  treinamento quando se refere ao repositori Git
